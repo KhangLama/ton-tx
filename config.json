@@ -10,7 +10,7 @@
     },
     {
       "ip": 1732600341,
-      "port": 48611,
+      "port": "48611",
       "id": {
         "@type": "pub.ed25519",
         "key": "QY2LWp+6FUBkULql59ncbPXP6O7X9bkthjnAi0wfGfk="
@@ -18,7 +18,7 @@
     },
     {
       "ip": 1732600342,
-      "port": 26251,
+      "port": "26251",
       "id": {
         "@type": "pub.ed25519",
         "key": "ystWe0VZ6OjJeapu9IaYQ5rjW0JLS6ZhEX5ZWUD6mTM="
@@ -26,7 +26,7 @@
     },
     {
       "ip": 1732600343,
-      "port": 35539,
+      "port": "35539",
       "id": {
         "@type": "pub.ed25519",
         "key": "AupF9uWKlyKpVwn0XJPNI9w+cSenqWmlUXKysug24Aw="
