@@ -33,6 +33,22 @@
         "@type": "pub.ed25519",
         "key": "3O0QVt9v5B9X6bRTnp+KPP5/Ym720HAqQbZ9jaeJwZc="
       }
+    },
+    {
+      "ip": 1732600338,
+      "port": 37892,
+      "id": {
+        "@type": "pub.ed25519",
+        "key": "MQephO1OHCHUGfqOE/tIg5Qb8aeg6pfEsGcouKwFFVw="
+      }
+    },
+    {
+      "ip": 1732600339,
+      "port": 58300,
+      "id": {
+        "@type": "pub.ed25519",
+        "key": "2igW4ulO40uYhvm1v3yRS/vYWSgh30e8VqLYMaq7Bx8="
+      }
     }
   ],
   "dht": {
